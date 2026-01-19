@@ -9,4 +9,4 @@ def total_cost(d, c, n):
 
 
 # Invoke the function with three integers: total_cost(dollars, cents, number_of_cupcakes)
-print(total_cost(10,25,4))
+print(total_cost(10,15,2))
