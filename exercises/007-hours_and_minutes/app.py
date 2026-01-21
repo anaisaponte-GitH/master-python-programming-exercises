@@ -6,3 +6,4 @@ def hours_minutes(seconds):
 
 # Invoke the function and pass any integer as its argument
 print(hours_minutes(3900))
+

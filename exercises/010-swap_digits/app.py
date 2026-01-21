@@ -5,6 +5,6 @@ def swap_digits(num):
   uni = num % 10
   resul = (uni * 10) + dec
   return resul
-   
+
 # Invoke the function with any two-digit integer as its argument
-print(swap_digits(79))
+print(swap_digits(41))
